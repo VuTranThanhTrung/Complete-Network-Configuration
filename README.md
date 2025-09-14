@@ -1,1 +1,1 @@
-DTP, VTP, EtherChannel, OSPF, NAT, VPN, STP | All Protocols
+DTP, VTP, EtherChannel, OSPF, NAT, VPN GRE TUNNEL, PVST 
